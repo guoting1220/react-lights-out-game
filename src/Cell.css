@@ -1,0 +1,12 @@
+.Cell {
+  height: 100px;
+  width: 100px;
+  background-color: darkgray;
+  cursor: pointer;
+  border: 1px solid darkgray;
+  border-radius: 10%;
+}
+
+.Cell-lit {
+  background-color: yellow;
+}
